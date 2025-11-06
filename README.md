@@ -5,7 +5,7 @@
 Owen M. Wilkins, Kevin C. Johnson, E. Andres Houseman, Jessica E. King, Carmen J. Marsit, Brock C. Christensen <br />
 May 2018
 
-BioRxiv manuscript: https://www.biorxiv.org/content/early/2018/06/07/339069
+[Link to manuscript:](https://www.tandfonline.com/doi/10.1080/15592294.2019.1695332?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
 ## Project description
 
